@@ -22,3 +22,6 @@ species);
 - **Test Images**: 1250 (5 per species);
 - **Images Size**: 224 x 224 x 3 color channels in jpg format;
 - **Species gender**: 80% of total images are of male while the remaining 20% are of female - the classifier may not perform as well on female specie images.
+
+## Website
+[Click here to view Jupyter file](index.html)
